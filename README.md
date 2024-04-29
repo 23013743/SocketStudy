@@ -76,7 +76,7 @@ s.send("acknowledgement recived from the server".encode())
 ``
 ![Screenshot 2024-04-29 130152](https://github.com/23013743/SocketStudy/assets/161271714/2f2d5aca-818e-4853-ab13-00861fe37a79)
 
-```
+``
 ## SERVER:
 
 ![Screenshot 2024-04-29 130205](https://github.com/23013743/SocketStudy/assets/161271714/2bf5a72b-3c28-443b-8ffd-b4e6de3bb8a9)
