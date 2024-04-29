@@ -61,8 +61,9 @@ ack=c.recv(1024).decode()
 if ack:
 print(ack)
 c.close()
-``
+```
 ## SERVER:
+```
 import socket
 s=socket.socket()
 s.connect(('localhost',8002))
