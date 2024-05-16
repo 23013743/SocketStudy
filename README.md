@@ -1,5 +1,8 @@
 ## Ex.No:1a Study of Socket Programming
 
+## Name: NIRMAL .N
+## REG NO :212223240107
+
 ## Aim:
      To perform a study on Socket Programming
 
