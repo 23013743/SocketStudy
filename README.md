@@ -78,12 +78,13 @@ s.send("acknowledgement recived from the server".encode())
 
 ## CLIENT:
 ``
-![Screenshot 2024-04-29 130152](https://github.com/23013743/SocketStudy/assets/161271714/2f2d5aca-818e-4853-ab13-00861fe37a79)
+![1a](https://github.com/23013743/SocketStudy/assets/161271714/6d81f580-113a-493b-9185-e784eaf919da)
+
 
 ``
 ## SERVER:
 
-![Screenshot 2024-04-29 130205](https://github.com/23013743/SocketStudy/assets/161271714/2bf5a72b-3c28-443b-8ffd-b4e6de3bb8a9)
+![1a1](https://github.com/23013743/SocketStudy/assets/161271714/90f5566f-346c-48a9-8487-a5b453f0b5c7)
 
 Result:
 Thus the study of Socket Programming Completed Successfully
